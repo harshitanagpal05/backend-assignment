@@ -11,4 +11,4 @@ for (let i = 0; i < arr.length; i++) {
   }
 }
 
-console.log(index); // 1
+console.log(index); 

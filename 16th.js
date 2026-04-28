@@ -7,4 +7,4 @@ for (let i = start; i <= end; i++) {
   result.push(i);
 }
 
-console.log(result); // [3,4,5,6]
+console.log(result); 
